@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Simplified Ganesha/Lord Ganesha icon for wedding invitation -->
+  <!-- Lotus base -->
+  <g opacity="0.9">
+    <ellipse cx="100" cy="170" rx="50" ry="12" fill="#d4af37" opacity="0.3"/>
+    <!-- Lotus petals -->
+    <path d="M100 158 C85 150 70 155 65 165 C70 160 85 156 100 160Z" fill="#d4af37" opacity="0.6"/>
+    <path d="M100 158 C115 150 130 155 135 165 C130 160 115 156 100 160Z" fill="#d4af37" opacity="0.6"/>
+    <path d="M100 155 C80 145 60 152 55 165 C65 155 80 150 100 157Z" fill="#d4af37" opacity="0.4"/>
+    <path d="M100 155 C120 145 140 152 145 165 C135 155 120 150 100 157Z" fill="#d4af37" opacity="0.4"/>
+  </g>
+  
+  <!-- Body circle -->
+  <circle cx="100" cy="100" r="45" fill="none" stroke="#8a4f4c" stroke-width="1.5" opacity="0.6"/>
+  
+  <!-- Om symbol in center -->
+  <text x="100" y="115" font-family="serif" font-size="48" fill="#8a4f4c" text-anchor="middle" opacity="0.85">ॐ</text>
+  
+  <!-- Decorative border -->
+  <circle cx="100" cy="100" r="55" fill="none" stroke="#d4af37" stroke-width="0.8" opacity="0.4" stroke-dasharray="4 4"/>
+  
+  <!-- Top decoration -->
+  <path d="M80 50 Q100 35 120 50" fill="none" stroke="#d4af37" stroke-width="1.2" opacity="0.5"/>
+  <circle cx="100" cy="38" r="3" fill="#d4af37" opacity="0.6"/>
+</svg>
